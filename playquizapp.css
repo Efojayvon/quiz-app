@@ -45,6 +45,19 @@
   }
 
   .hud-main-text{
-      
+
   }
   
+  /*STYLING THE PROGRESS BAR*/
+  #progressBar{
+      width:20rem;
+      height:4rem;
+      border: 0.3rem solid #28a745;
+      margin-top: 1.7rem;
+  }
+
+  #progressBarFull{
+      height: 3.4rem;
+      background-color:  #28a745;
+      width:0%;
+  }
